@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Rowen-Robinson-II/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Rowen-Robinson-II/azure-network-protocols)
+- <b>Cisco Packet Tracer</b>
 
 <h2>🤳Connect with me:</h2>
 
