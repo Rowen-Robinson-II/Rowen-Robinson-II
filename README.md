@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rowen, an <a href="www.linkedin.com/in/rowen-robinson-ii-931b56254">IT Professional</a>☺</h1>
+<h1>Hi, I'm Rowen, an <a href="https://linkedin.com/in/rowen-robinson-ii-931b56254">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
