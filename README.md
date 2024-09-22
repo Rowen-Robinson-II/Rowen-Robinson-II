@@ -1,4 +1,5 @@
 <h1>Hi, I'm Rowen, an <a href="https://linkedin.com/in/rowen-robinson-ii-931b56254">IT Professional</a></h1>
+<h3>Certifications</h3>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -19,6 +20,8 @@
   - [Interface Configuration](https://github.com/Rowen-Robinson-II/Interface-configuration)
   - [Configuring Static Routes](https://github.com/Rowen-Robinson-II/configuring-static-routes)
   - [Troubleshoot Static Routes](https://github.com/Rowen-Robinson-II/troubleshoot-static-routes)
+ 
+<h2>Certifications</h2>
   
 <h2>Connect with me:</h2>
 
