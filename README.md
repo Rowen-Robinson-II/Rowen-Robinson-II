@@ -24,7 +24,7 @@
   - [Configuring Static Routes](https://github.com/Rowen-Robinson-II/configuring-static-routes)
   - [Troubleshoot Static Routes](https://github.com/Rowen-Robinson-II/troubleshoot-static-routes)
  
-<h2>Certifications</h2>
+
   
 <h2>Connect with me:</h2>
 
