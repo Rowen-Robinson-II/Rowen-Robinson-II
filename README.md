@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rowen, an <a href="https://linkedin.com/in/rowen-robinson-ii-931b56254">IT Professional</a>☺</h1>
+<h1>Hi, I'm Rowen, an <a href="https://linkedin.com/in/rowen-robinson-ii-931b56254">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Rowen-Robinson-II/azure-network-protocols)
 - <b>Cisco Packet Tracer</b>
 
-<h2>🤳Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
