@@ -1,7 +1,7 @@
 <h1>Hi, I'm Rowen, an <a href="https://linkedin.com/in/rowen-robinson-ii-931b56254">IT Professional</a></h1>
 <h3>Certifications</h3>
 <p>
-<a href="https://linkedin.com/in/rowen-robinson-ii-931b56254">CompTIA Security+ CE</a> 
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/da510f66-7f64-4824-863e-e2a59cbb4363"> 
 </p>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
