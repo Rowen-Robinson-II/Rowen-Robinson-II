@@ -13,6 +13,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Rowen-Robinson-II/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Rowen-Robinson-II/azure-network-protocols)
+- <b>TryHackMe Learning Paths</b>
+  - [Complete Beginner](https://github.com/Rowen-Robinson-II/thm-beginner)
+  - [SOC Level 1](https://github.com/Rowen-Robinson-II/thm-soc-1)
 - <b>Cisco Packet Tracer: Path to CCNA</b>
   - <b/>Phase 1</b>
   - [Connecting devices using appropriate cables (without auto MDI-x)](https://github.com/Rowen-Robinson-II/connecting-cables)
