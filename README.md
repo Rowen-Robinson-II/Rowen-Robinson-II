@@ -18,7 +18,7 @@
   - [SOC Level 1](https://github.com/Rowen-Robinson-II/thm-soc-1)
 - <b>Cisco Packet Tracer: Path to CCNA</b>
   - <b/>Phase 1</b>
-  - [Connecting devices using appropriate cables (without auto MDI-x)](https://github.com/Rowen-Robinson-II/connecting-cables)
+  - [Interfaces & Cables](https://github.com/Rowen-Robinson-II/connecting-cables)
   - [Basic Device Security](https://github.com/Rowen-Robinson-II/coming-soon)
   - [Ethernet LAN Switching](https://github.com/Rowen-Robinson-II/coming-soon)
   - <b/>Phase 2</b>
