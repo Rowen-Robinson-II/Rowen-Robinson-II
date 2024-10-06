@@ -19,13 +19,13 @@
 - <b>Cisco Packet Tracer: Path to CCNA</b>
   - <b/>Phase 1</b>
   - [Connecting devices using appropriate cables (without auto MDI-x)](https://github.com/Rowen-Robinson-II/connecting-cables)
-  - [Basic Device Security](https://github.com/Rowen-Robinson-II/connecting-cables)
-  - [Ethernet LAN Switching](https://github.com/Rowen-Robinson-II/connecting-cables)
+  - [Basic Device Security](https://github.com/Rowen-Robinson-II/coming-soon)
+  - [Ethernet LAN Switching](https://github.com/Rowen-Robinson-II/coming-soon)
   - <b/>Phase 2</b>
-  - [IPv4 Address](https://github.com/Rowen-Robinson-II/connecting-cables)
-  - [Interface Configuration](https://github.com/Rowen-Robinson-II/connecting-cables)
-  - [Configuring Static Routes](https://github.com/Rowen-Robinson-II/connecting-cables)
-  - [Troubleshoot Static Routes](https://github.com/Rowen-Robinson-II/connecting-cables)
+  - [IPv4 Address](https://github.com/Rowen-Robinson-II/coming-soon)
+  - [Interface Configuration](https://github.com/Rowen-Robinson-II/coming-soon)
+  - [Configuring Static Routes](https://github.com/Rowen-Robinson-II/coming-soon)
+  - [Troubleshoot Static Routes](https://github.com/Rowen-Robinson-II/coming-soon)
  
 
   
